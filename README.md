@@ -4,9 +4,13 @@ The inspiration behind this was to learn Lagrangian, using the former derive dyn
 
 
 # Derivation of dynamics
-The derivation of the dynamics is [linked here](https://www.youtube.com/watch?v=0rf5-bUTrOY)
+The derivation of the dynamics is [linked here](Snake dynamics lagrangian approach (1).pdf
+)
 
-# References 
-https://github.com/sparkfun/SparkFun_MPU-9250-DMP_Arduino_Library
+# Future work
+Solving the differential equations using various iterative numerical methods and thereby comparing results by simulating.
 
-Refer this for imu interfacing.
+# References for simulation
+https://www.mathworks.com/help/symbolic/examples/animation-and-solution-of-double-pendulum.html
+
+
