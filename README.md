@@ -4,7 +4,7 @@ The inspiration behind this was to learn Lagrangian, using the former derive dyn
 
 
 # Derivation of dynamics
-The derivation of the dynamics is [here](Dynamics-study-of-double-pendulum-using-Lagrangian-based-approach./Snake dynamics lagrangian approach (1).pdf)
+The derivation of the dynamics is [here](https://github.com/rajesh3699/Dynamics-study-of-double-pendulum-using-Lagrangian-based-approach./blob/master/Snake%20dynamics%20lagrangian%20approach%20(1).pdf)
 
 
 
